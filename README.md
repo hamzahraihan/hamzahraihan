@@ -6,6 +6,7 @@
   A passionate student of web developer from Indonesia.
 </h3>
  - 🌱 I’m currently learning frameworks such as codeigniter and laravel
+ <br/>
  - I'm learning react js
 
 ## 🏆 GitHub Trophies
