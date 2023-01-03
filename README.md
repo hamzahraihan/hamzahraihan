@@ -6,6 +6,7 @@
   A passionate student of web developer from Indonesia.
 </h3>
  - 🌱 I’m currently learning frameworks such as codeigniter and laravel
+ - I'm learning react js
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hamzahraihan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
