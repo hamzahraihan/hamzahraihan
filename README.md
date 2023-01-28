@@ -2,10 +2,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Hamzah Raihan</h1>
 <h3 align="center">
-
   A passionate student of web developer from Indonesia.
 </h3>
- - 🌱 I’m currently learning frameworks such as codeigniter and laravel
+ - I’m currently learning frameworks such as codeigniter and laravel
  <br/>
  - I'm learning react js
 
