@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there 👋
+Hello there 👋,<br><br>You can call me Hamzah. I work with React Ecosystem, and currently learning typescript. Also, i'd love to learning new things such new technologies.
 
 
 ## 🌐 Socials:
