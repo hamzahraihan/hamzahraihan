@@ -1,5 +1,5 @@
 # Hello there 👋
-You can call me Hamzah. I work with React Ecosystem, and currently learning typescript. Also, i really love to learning new things such new technologies including Artificial Intelligence.
+You can call me Hamzah. I work with React Ecosystem, and currently learning typescript. Also, i really interested in learning new things such new technologies including Artificial Intelligence.
 
 
 ## 🌐 Socials:
