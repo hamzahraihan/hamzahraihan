@@ -14,7 +14,7 @@ You can call me Hamzah. I work with React Ecosystem, and currently learning type
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzahraihan&theme=nightowl&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahraihan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahraihan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
  
