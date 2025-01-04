@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello there 👋
 You can call me Hamzah. I work with React Ecosystem, and currently learning typescript. Also, i really interested in learning new things including Artificial Intelligence.
 
 
