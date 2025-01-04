@@ -1,5 +1,5 @@
 # Hello there 👋
-You can call me Hamzah. I work with React Ecosystem, and currently learning typescript. i mainly doing frontend and sometimes backend. I love programming multiple different things in my free time, from websites to mobile apps. 
+You can call me Hamzah. I work with React Ecosystem, and currently learning flutter. i mainly doing frontend and sometimes backend. I love programming multiple different things in my free time, from websites to mobile apps. 
 
 
 ## 🌐 Socials:
