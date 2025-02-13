@@ -12,7 +12,7 @@ You can call me Hamzah. I work with React Ecosystem, and currently learning flut
 
 ![](https://github-readme-stats.vercel.app/api?username=hamzahraihan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamzahraihan&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=hamzahraihan&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahraihan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
