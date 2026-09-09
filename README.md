@@ -2,8 +2,8 @@
 You can call me Hamzah. I work with React Ecosystem, and currently learning flutter. i mainly doing frontend and sometimes backend. I love programming multiple different things in my free time, from websites to mobile apps. 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzah-raihan-ikhsanul-fikri-786b101a1/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hamzah_raihan/) 
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzah-raihan-ikhsanul-fikri-786b101a1/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hamzah_raihan/) -->
 
 ## 💻 Tech Stacks:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/reactnative-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![Flutter](https://img.shields.io/badge/flutter-042B59.svg?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/android-30994c.svg?style=flat-square&logo=android&logoColor=white) 
