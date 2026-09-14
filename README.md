@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=hamzahraihan&color=dc143c)
 
-![Pixelated Gif](https://private-user-images.githubusercontent.com/69003304/420538675-2d1c7b36-d6f8-476f-8003-2dc3e34f78c3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODkzODc2NzYsIm5iZiI6MTc4OTM4NzM3NiwicGF0aCI6Ii82OTAwMzMwNC80MjA1Mzg2NzUtMmQxYzdiMzYtZDZmOC00NzZmLTgwMDMtMmRjM2UzNGY3OGMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE0VDEyMDI1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViMDc3NzA3NjEyZmVlM2IxYmFkMThkZGNmOTM4NTYwNWUyZmM4NjU0YmRlNGQwMmI1ZmVmM2Q2MDgyZjY1ODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.s1SX0esf34O8IBtOaNqbqddoU-ZJb3doamqHpuiqgQs)
+![639c70e2ffb7aa](https://github.com/user-attachments/assets/2cdc8ffd-e421-4a90-af50-36467aaa6bad)
+
 ---
 # Hello there 👋
 You can call me Hamzah. I work with React Ecosystem, and currently learning flutter. i mainly doing frontend and sometimes backend. I love programming multiple different things in my free time, from websites to mobile apps. 
