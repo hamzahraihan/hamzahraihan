@@ -18,6 +18,7 @@ You can call me Hamzah. I work with React Ecosystem, and currently learning flut
 <div align="center">
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=hamzahraihan&theme=kanagawa)
+
 ![Top Languages](https://ghstats.dev/api/langs?username=hamzahraihan&theme=kanagawa)
 
 
