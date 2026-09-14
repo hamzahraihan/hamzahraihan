@@ -17,16 +17,10 @@ You can call me Hamzah. I work with React Ecosystem, and currently learning flut
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=hamzahraihan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=hamzahraihan&theme=kanagawa)
+![Top Languages](https://ghstats.dev/api/langs?username=hamzahraihan&theme=kanagawa)
 
-[![](https://streak-stats.demolab.com?user=hamzahraihan&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahraihan&theme=nightowl&hide_border=true&include_all_commits=true&layout=compact)
 
 </div>
- 
-
----
-[![](https://visitcount.itsvg.in/api?id=hamzahraihan&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
