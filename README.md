@@ -14,10 +14,11 @@ You can call me Hamzah. I work with React Ecosystem, and currently learning flut
 ## ⚙️ Tools
 ![Docker](https://img.shields.io/badge/docker-1e63ee.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-f8472c.svg?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
+---
+
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=hamzahraihan&theme=kanagawa)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=hamzahraihan&theme=kanagawa&size=compact)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=hamzahraihan&theme=kanagawa)
 
